@@ -1,5 +1,0 @@
-{
-  "name": "NNM AI Assistant",
-  "description": "NNM AI Assistant: A multilingual agent with chat history, user registration, Google Search grounding, image analysis, and text-to-speech.",
-  "requestFramePermissions": []
-}
